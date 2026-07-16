@@ -1,5 +1,7 @@
 # 🏡 My House Resident
 
+Live Demo https://edwinalfadin.github.io/Build-a-Property-Web/
+
 Website properti modern yang menampilkan informasi hunian, tipe rumah, fasilitas, blog, dan halaman kontak dengan desain yang responsif.
 
 ![Home Page](img/homepage.png)
