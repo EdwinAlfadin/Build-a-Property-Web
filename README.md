@@ -1,6 +1,8 @@
-# 🏡 My House Resident
+# 🌐 Live Demo
 
-Live Demo https://edwinalfadin.github.io/Build-a-Property-Web/
+🔗 https://edwinalfadin.github.io/Build-a-Property-Web/
+
+# 🏡 My House Resident
 
 Website properti modern yang menampilkan informasi hunian, tipe rumah, fasilitas, blog, dan halaman kontak dengan desain yang responsif.
 
